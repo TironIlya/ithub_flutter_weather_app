@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922153232504",
+    "project_id": "new-weather-app-de2c2",
+    "storage_bucket": "new-weather-app-de2c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922153232504:android:6237bd3c93cc36e6ca658d",
+        "android_client_info": {
+          "package_name": "com.example.new_weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bsa8z24s6ndJJrRdMSdOJey3t6N9ysU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
